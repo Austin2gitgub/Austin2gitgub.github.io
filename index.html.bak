@@ -108,7 +108,7 @@
       <div class="carousel-item">
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Amazing Works</h2>
-          <p class="animate__animated animate__fadeInUp">My works are made by unleashing my creative ideas and my intellectual knowledge. View these enticing works of mine in the works section below...</p>
+          <p class="animate__animated animate__fadeInUp">My works are made by unleashing my creative ideas and using my intellectual knowledge. View these enticing works of mine in the works section below...</p>
           <a href="#portfolio" class="btn-get-started animate__animated animate__fadeInUp scrollto">Works Section</a>
         </div>
       </div>
